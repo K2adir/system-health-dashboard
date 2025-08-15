@@ -14,6 +14,7 @@ If I'm not mistaken, you have to have Node 22 or above to run it locally.
 
 <img width="1291" height="997" alt="Screenshot 2025-08-14 at 10 53 38 PM" src="https://github.com/user-attachments/assets/3e9c5e76-661a-4217-b961-47e184aecbde" />
 
+the management wanted the time picker to be like this. 
 <img width="1295" height="1018" alt="Screenshot 2025-08-14 at 10 53 50 PM" src="https://github.com/user-attachments/assets/f91da50e-1dab-405c-bed5-1fd6ffbee5ec" />
 
 <img width="1364" height="1076" alt="Screenshot 2025-08-14 at 10 54 04 PM" src="https://github.com/user-attachments/assets/1b1b1ded-32df-4d91-972f-5ebdc064f55b" />
